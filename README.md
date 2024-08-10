@@ -17,10 +17,10 @@ I'm Kartik Mishra, a passionate web developer with a strong focus on crafting re
 
 ### 🚀 **Projects**
 
-- **[NimbusBook](https://github.com/username/nimbusbook)**: A cloud-based notes-making app with authentication and CRUD functionality.
-- **[Plate Pages](https://github.com/username/plate-pages)**: A single-page application for browsing food recipes with a clean and responsive UI.
-- **[TxtOptimizer](https://github.com/username/txtoptimizer)**: A React-based app focused on learning and practicing core React concepts.
-- **[FXRateMaster](https://github.com/username/fxratemaster)**: A currency converter app providing real-time exchange rates, built with React and API integration.
+- **[NimbusBook](https://github.com/kartikmishra2004/NimbusBook)**: A cloud-based notes-making app with authentication and CRUD functionality.
+- **[Plate Pages](https://github.com/kartikmishra2004/Plate-Pages)**: A single-page application for browsing food recipes with a clean and responsive UI.
+- **[TxtOptimizer](https://github.com/kartikmishra2004/TxtOptimizer)**: A React-based app focused on learning and practicing core React concepts.
+- **[FXRateMaster](https://github.com/kartikmishra2004/FXRateMaster)**: A currency converter app providing real-time exchange rates, built with React and API integration.
 
 ---
 
@@ -38,7 +38,7 @@ I'm always open to discussing new opportunities and collaborations! You can reac
 
 - **Email:** kartik.mishra@example.com
 - **LinkedIn:** [Kartik Mishra](https://www.linkedin.com/in/kartikmishra2004/)
-- **Portfolio:** [kartikmishra.dev]([https://kartikmishra.dev](https://kmportfolio.vercel.app/))
+- **Portfolio:** [kartikmishra](https://kmportfolio.vercel.app/)
 
 ---
 
