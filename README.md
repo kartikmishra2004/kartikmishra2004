@@ -1,6 +1,6 @@
 # 💻 Kartik Mishra
 
-**Dedicated MERN Stack Developer | UI/UX Enthusiast | Open to Collaborations**
+**Dedicated Full Stack Developer | UI/UX Enthusiast | Open to Collaborations**
 
 I'm Kartik Mishra, a passionate web developer with a strong focus on crafting responsive and captivating user experiences. My expertise lies in the MERN stack, where I create clean, user-friendly interfaces and build full-stack applications. Currently, I'm diving deeper into React and exploring various project ideas to enhance my skills.
 
