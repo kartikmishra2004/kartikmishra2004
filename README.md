@@ -29,9 +29,8 @@ I'm Kartik Mishra, a passionate web developer with a strong focus on crafting re
 
 ### 🌱 **Currently Learning**
 
-- Deepening my understanding of React hooks and advanced React patterns.
-- Exploring MongoDB and mastering its use in building scalable applications.
-- Integrating secure authentication mechanisms like JWT.
+- Deepening my understanding of Firebase, Next.js, and TypeScript.
+- Integrating Agora for real-time voice and video communication in apps.
 
 ---
 
