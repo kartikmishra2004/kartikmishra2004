@@ -8,10 +8,11 @@ I'm Kartik Mishra, a passionate web developer with a strong focus on crafting re
 
 ### 🛠️ **Tech Stack**
 
-- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React.js
+- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React.js, React Native
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Tools:** Git, GitHub, VS Code, Postman
+- **Database:** MongoDB, Firebase
+- **Tools:** Git, GitHub, VS Code, Postman, Cloudinary
+- **Others:** Socket.IO, Agora, JWT, Next.js
 
 ---
 
