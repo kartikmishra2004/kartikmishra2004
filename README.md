@@ -18,6 +18,8 @@ I'm Kartik Mishra, a passionate web developer with a strong focus on crafting re
 
 ### 🚀 **Projects**
 
+- **[Buy Me a Soda]([https://buy-me-a-soda.vercel.app](https://github.com/kartikmishra2004/Buy-Me-a-Soda))**: A platform where users can create their page, showcase business ideas, and raise funds for their projects. Built using Next.js with GitHub login, page creation, and fund-raising features.
+- - **[ZyloNet]([https://zylonet.vercel.app](https://github.com/kartikmishra2004/Zylonet))**: A social media web app built with the MERN stack featuring user registration, post creation, and real-time messaging.
 - **[NimbusBook](https://github.com/kartikmishra2004/NimbusBook)**: A cloud-based notes-making app with authentication and CRUD functionality.
 - **[Plate Pages](https://github.com/kartikmishra2004/Plate-Pages)**: A single-page application for browsing food recipes with a clean and responsive UI.
 - **[TxtOptimizer](https://github.com/kartikmishra2004/TxtOptimizer)**: A React-based app focused on learning and practicing core React concepts.
