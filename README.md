@@ -28,13 +28,8 @@ I'm Kartik Mishra, a passionate web developer with a strong focus on crafting re
 
 ---
 
-### 📫 **Contact Me**
-
-I'm always open to discussing new opportunities and collaborations! You can reach me through:
-
-- **Email:** kartik.mishra@example.com
-- **LinkedIn:** [Kartik Mishra](https://www.linkedin.com/in/kartikmishra2004/)
-- **Portfolio:** [kartikmishra](https://kmportfolio.vercel.app/)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kartikk26_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikmishra2004) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kartikmishra01_) 
 
 ---
 
